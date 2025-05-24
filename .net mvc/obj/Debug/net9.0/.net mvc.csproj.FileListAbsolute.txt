@@ -1,0 +1,231 @@
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\appsettings.Development.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\appsettings.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\.net mvc.staticwebassets.runtime.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\.net mvc.staticwebassets.endpoints.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\.net mvc.exe
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\.net mvc.deps.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\.net mvc.runtimeconfig.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\.net mvc.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\.net mvc.pdb
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.AssemblyInfoInputs.cache
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.AssemblyInfo.cs
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.csproj.CoreCompileInputs.cache
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.MvcApplicationPartsAssemblyInfo.cache
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.RazorAssemblyInfo.cache
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.RazorAssemblyInfo.cs
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\scopedcss\bundle\.net mvc.styles.css
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\scopedcss\projectbundle\.net mvc.bundle.scp.css
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\edb8ugg8ni-b9sayid5wm.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\7sg4zseqyn-61n19gt1b8.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\omzhrx0bki-xtxxf3hu2r.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\rdacqttywz-bqjiyaj88i.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\5r47v61mgm-c2jlpeoesf.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\jvl2x55wpl-erw9l3u2r3.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\odame1caq0-aexeepp0ev.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\qdvp9i4r5d-d7shbmvgxk.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\so7nwz8213-ausgxo2sd3.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\15gtkr069e-k8d9w2qqmf.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\tv3zaqe10p-cosvhxvwiu.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\xh0g4xkcpj-ub07r2b239.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\6orfh49yll-fvhpjtyr6v.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\vlk4vji8ji-b7pk76d08c.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\83pkx794vn-fsbi9cje9m.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\vwsljrcgtw-rzd6atqjts.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\68i53yfaud-ee0r1s7dh0.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\0e100mbjmw-dxx9fxp4il.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\1g2cn3oh8t-jd9uben2k1.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\f1x8u5tps8-khv3u5hwcm.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\dwyy7jyf2c-r4e9w2rdcm.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\1dp2p2327y-lcd1t2u6c8.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\ajbochb9sb-c2oey78nd0.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\lnwl36hvxi-tdbxkamptv.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\jyddnfpc45-j5mq2jizvt.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\yssaml61oy-06098lyss8.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\kc1tm738c8-nvvlpmu67g.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\1rotqw69nn-s35ty4nyc5.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\vvp3yn9ga1-pj5nd1wqec.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\k4ogh8xikx-46ein0sx1k.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\ey0qxhws8e-v0zj4ognzu.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\87gv4j8r78-37tfw0ft22.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\89fgp5rz8n-hrwsygsryq.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\wxh7hwwabj-pk9g2wxc8p.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\vrx7wlir0g-ft3s53vfgj.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\5yxbwcqvka-6cfz1n2cew.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\mo2bhijkdc-6pdc2jztkx.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\0phec8mb11-493y06b0oq.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\6etxwrr0is-iovd86k7lj.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\o81ui0muo2-vr1egmr9el.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\60lm0ihax1-kbrnm935zg.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\tpgk0jz5og-jj8uyg4cgr.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\z1en2k9ljz-y7v9cxd14o.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\u5zv9a2wro-notf2xhcfb.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\ump3g3xrv4-h1s4sie4z3.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\a3aip69nsv-63fj8s7r0e.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\1sek1ua1oo-0j3bgjxly4.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\5kwoxgfxg2-47otxtyo56.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\kj2e21a3va-4v8eqarkd7.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\ofdtbui6gg-356vix0kms.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\gctgzoab7t-83jwlth58m.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\ckkiwhfx51-mrlpezrjn3.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\wzhji0zsdj-lzl9nlhx6b.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\n0pch05e69-ag7o75518u.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\2dp8qv6cid-x0q3zqp4vz.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\zp56jouqyi-0i3buxo5is.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\a99h2skssb-o1o13a6vjx.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\6vg5x45ln2-ttgo8qnofa.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\1yeajkngva-2z0ns9nrw6.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\hr9lwp7g2f-muycvpuwrr.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\nxjlefjo85-87fc7y1x7t.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\819h65ieoz-mlv21k5csn.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\1dxwskopcg-9v0gpdj243.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\compressed\6cqan3lccu-9v0gpdj243.gz
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\staticwebassets.build.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\staticwebassets.development.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\staticwebassets\msbuild..net mvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\staticwebassets\msbuild..net mvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\staticwebassets\msbuild.build..net mvc.props
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting..net mvc.props
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive..net mvc.props
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\staticwebassets.pack.json
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\refint\.net mvc.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.pdb
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.genruntimeconfig.cache
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\ref\.net mvc.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Azure.Core.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Azure.Identity.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Humanizer.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.ClientModel.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.CodeDom.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Memory.Data.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Text.Json.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.csproj.AssemblyReference.cache
+D:\HoangDuyNgoc_2121050059_KiemTra_2425\.net mvc\obj\Debug\net9.0\.net mvc.csproj.Up2Date
