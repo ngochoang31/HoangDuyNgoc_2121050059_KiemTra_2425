@@ -1,0 +1,28 @@
+using classtinhdiem
+using System.Controller;
+using System.Web;
+using System.Web.Mvc;
+using System.Web.Routing;
+namespace classtinhdiem.
+{
+    public class Routing RoutingConfig;
+    public class classtinhdiemController;
+    public classtinhdiemController()
+    {
+        using System;
+        using System.Collections.Generic;
+        using System.Linq;
+        using System.Threading.Tasks;
+        
+        namespace Namespace
+        {
+            public interface classtinhdiem
+            {
+                
+            }
+        }
+    
+
+    }
+
+}
